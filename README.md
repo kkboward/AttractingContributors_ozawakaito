@@ -11,5 +11,6 @@
 7. mai hukagawa
 8. Dwayne Jhonson
 9. Ryunosuke Kamiki
-10. Hitoshi Ozawa(小沢仁志)
-11. Tatsuya Fujiwara
+10. Hiroshi Abe
+11. Hitoshi Ozawa(小沢仁志)
+12. Tatsuya Fujiwara
