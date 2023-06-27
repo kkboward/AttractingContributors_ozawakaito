@@ -14,3 +14,4 @@
 10. Hiroshi Abe
 11. Hitoshi Ozawa(小沢仁志)
 12. Tatsuya Fujiwara
+13. Yutaka Takenouchi
